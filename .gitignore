@@ -1,0 +1,15 @@
+# Data files
+data/
+*.csv
+*.pkl
+
+# Models
+*.model
+
+# Python
+venv/
+__pycache__/
+
+# Node
+node_modules/
+.next/
